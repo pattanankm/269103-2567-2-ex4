@@ -33,10 +33,12 @@
    * Briefly describe its function
    * Explain why it's essential for new engineers (in your own words)
 
-**Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+**Answer** : I found Git reverse and Git Commit are valuable. For “git reverse”, it undoes the changes introduced but still preserves history. And “Git commit -m” It use to commit new massage, can describe what
+ we made the changes. It’s essential because we can make massage through git commit command and this make us know what we already did in previous commit. Help us work more clear. Beside, 
+if we made some mistakes, we can undo changes by using git revert and there history still be there. In conclusion, these command can help us work more safely 
 
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
-**Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+**Answer:** : For those who woild like to be the ISNE student, they should prepare themself to ready to study. For example, prepare to type by using computer. Don't be afraid of the language barrier,
+they must overcome it because all lessons are English. Always prepare yourself to recieve knowledge, there are always new thing for them to learn. the teachers are always happy and willing impact
+ knowledge to us.
